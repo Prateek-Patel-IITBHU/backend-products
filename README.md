@@ -23,24 +23,7 @@ This application allows uploading product data via a CSV file, validating and st
 
 ---
 
-## 📁 Project Structure
-
-```
-
-streamoid-backend/
-├── controllers/
-│   └── productController.js
-├── models/
-│   └── Product.js
-├── routes/
-│   └── productRoutes.js
-├── uploads/
-├── utils/
-│   └── csvValidator.js
-├── .env
-├── app.js
-├── server.js
-├── package.json
+##  Project Structure
 
 ````
 
