@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🛠️ Streamoid Backend — CSV Upload & Search API
 
